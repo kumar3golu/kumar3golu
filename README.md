@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mukul Kumar 👋
 
-<!--
-**kumar3golu/kumar3golu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Professional | Identity Security | Cloud & Automation**
 
-Here are some ideas to get you started:
+## About me
+Interested in secure enterprise infrastructure, identity management, cloud technologies and IT operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology focus
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge) ![IAM](https://img.shields.io/badge/IAM-155EEF?style=for-the-badge) ![Zero Trust](https://img.shields.io/badge/Zero_Trust-24292F?style=for-the-badge)
+
+## Featured project
+- [IAM Zero Trust Lab](https://github.com/kumar3golu/iam-zero-trust-lab)
+
+## Portfolio roadmap
+- Azure infrastructure as code with Bicep and Terraform
+- Active Directory automation and runbooks
+- Microsoft Entra ID security labs
+- PowerShell and Microsoft Graph automation
+
+## Connect
+Open to opportunities and collaboration in IT infrastructure, identity security, cloud and IT operations.
