@@ -3,21 +3,53 @@
 
 ---
 
-## Professional focus
+## Professional summary
 
-IT professional with a career focus on identity and access management, enterprise infrastructure and IT operations. This portfolio is intended to share technical documentation, practical learning labs and operational resources.
+IT professional with 7+ years of experience across identity and access management, Azure cloud operations, enterprise infrastructure and technical support.
 
-## Areas of interest
+## Professional experience
 
-| Domain | Topics |
+| Organization | Role | Period |
+| --- | --- | --- |
+| Carlsberg Group GCC | Senior Software Engineer – Identity & Access Management | Jun 2025 – Present |
+| Teleperformance | IT Support Specialist – Azure Cloud Operations | Jul 2023 – May 2025 |
+| HCLTech | Analyst – Infrastructure & Virtualization | Aug 2022 – Jul 2023 |
+| Spectra India | Cloud Support Engineer | Jun 2020 – Apr 2022 |
+| Microsense | IT Helpdesk Engineer | Aug 2019 – Apr 2020 |
+
+### Career highlights
+
+- Carlsberg Group GCC: Identity lifecycle management, identity governance, hybrid identity, enterprise application access and administrative automation.
+- Teleperformance: Azure production operations, incident resolution, resource monitoring and PowerShell automation.
+- HCLTech: Server administration, virtualization, backup and recovery, and infrastructure support.
+- Spectra India: Virtualization, remote application access and client technical support.
+- Microsense: Network infrastructure support, authentication and connectivity troubleshooting.
+
+## Technical skills
+
+| Domain | Technologies |
 | --- | --- |
-| Identity & Access Management | Identity lifecycle, access governance, authentication and authorization |
-| Enterprise Infrastructure | Directory services, infrastructure reliability and administration |
-| IT Operations | Incident management, service continuity, troubleshooting and documentation |
-| Operational Improvement | Service quality, process improvement and knowledge management |
-| Identity Security | Least privilege, Zero Trust and access controls |
+| IAM | Microsoft Entra ID, Active Directory, Entra Connect, MFA, SSO, Conditional Access, RBAC |
+| Identity governance | PIM, Access Reviews, Entitlement Management, Joiner-Mover-Leaver lifecycle |
+| Authentication and integration | SAML 2.0, OAuth 2.0, OpenID Connect, application registrations |
+| Azure operations | Virtual Machines, VM Scale Sets, Virtual Networks, Storage Accounts, App Services |
+| Automation | PowerShell, Microsoft Graph API |
+| Security and monitoring | Microsoft Defender, Defender for Cloud, Azure Monitor, Log Analytics, Network Watcher |
+| Infrastructure | VMware ESXi, Hyper-V, Proxmox VE, server administration, backup and recovery |
+| IT operations | Incident resolution, SLA management, application support, Remote Desktop Services, TSplus, RDS-Knight |
 
-These topics describe portfolio interests rather than a verified list of certifications or technical competencies.
+## Certifications and credentials
+
+- SailPoint Identity Security Leader Credential
+- Saviynt Identity Security for AI Age (ISAA)
+
+## Education
+
+| Qualification | Institution | Year |
+| --- | --- | --- |
+| MBA – Information Technology | Suresh Gyan Vihar University | 2025 |
+| Bachelor's Degree | Delhi University | 2021 |
+| Diploma – System & Networking Engineer | Jetking (JCHNE+Cloud v2) | 2019 |
 
 ## Identity and access reference architecture
 
