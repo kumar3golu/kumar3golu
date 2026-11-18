@@ -1,59 +1,61 @@
 <h1 align="center">kumar3golu</h1>
-<p align="center"><strong>◆ IT Infrastructure · Identity Security · Cloud · Automation ◆</strong></p>
+<p align="center"><strong>IT Professional | Identity & Access Management | Enterprise IT Infrastructure | IT Operations</strong></p>
 
 ---
 
 ## Professional focus
 
-IT professional interested in secure enterprise infrastructure, identity management, cloud technologies and IT operations. This portfolio brings together practical labs, technical documentation and learning projects.
+IT professional with a career focus on identity and access management, enterprise infrastructure and IT operations. This portfolio is intended to share technical documentation, practical learning labs and operational resources.
 
-## Technology landscape
+## Areas of interest
 
-| Domain | Technology focus |
+| Domain | Topics |
 | --- | --- |
-| Cloud engineering | Azure, Bicep, ARM, Terraform |
-| Identity security | Active Directory, Entra ID, IAM, Zero Trust |
-| Automation | PowerShell, Python, Microsoft Graph |
-| DevOps | Git, GitHub Actions, CI/CD |
-| IT operations | Runbooks, monitoring, troubleshooting |
+| Identity & Access Management | Identity lifecycle, access governance, authentication and authorization |
+| Enterprise Infrastructure | Directory services, infrastructure reliability and administration |
+| IT Operations | Incident management, service continuity, troubleshooting and documentation |
+| Operational Improvement | Service quality, process improvement and knowledge management |
+| Identity Security | Least privilege, Zero Trust and access controls |
 
-## Identity and infrastructure reference architecture
+These topics describe portfolio interests rather than a verified list of certifications or technical competencies.
+
+## Identity and access reference architecture
 
 ```mermaid
 flowchart LR
- U[Users and devices] --> I[Identity provider]
- I --> P[MFA and access policies]
- P --> R[Authorized resources]
- P --> L[Security monitoring]
- R --> L
- A[Automation and runbooks] --> R
+ U[Users] --> I[Identity services]
+ I --> P[Authentication and access policies]
+ P --> R[Enterprise resources]
+ P --> M[Monitoring and review]
+ R --> M
 ```
 
-Conceptual learning architecture, not a production deployment.
+Conceptual reference architecture for learning, not a production deployment.
 
-## Featured project
+## Featured repository
 
 **[IAM Zero Trust Lab](https://github.com/kumar3golu/iam-zero-trust-lab)**
 
-## Portfolio roadmap
+## Planned portfolio resources
 
-- Azure infrastructure as code with Bicep and Terraform
-- Active Directory health checks and operational runbooks
-- Entra ID security labs
-- PowerShell and Microsoft Graph automation
+- Identity lifecycle and access review checklists
+- Enterprise directory services operational runbooks
+- Incident management and escalation templates
+- Infrastructure health check documentation
+- IT service improvement and knowledge management guides
 
-## Engineering approach
+## Professional principles
 
-- Security-first design and least privilege
-- Repeatable infrastructure and automation
-- Clear documentation and reproducible labs
+- Security and least privilege
+- Reliable IT services and clear operational processes
+- Continuous improvement and practical documentation
 
 ## GitHub activity
 
-[Repositories](https://github.com/kumar3golu?tab=repositories) · [Contribution history](https://github.com/kumar3golu#js-contribution-activity) · [Contribution snake workflow](https://github.com/kumar3golu/kumar3golu/actions/workflows/snake.yml)
+[Repositories](https://github.com/kumar3golu?tab=repositories) · [Contribution history](https://github.com/kumar3golu#js-contribution-activity)
 
-<p align="center"><img src="https://raw.githubusercontent.com/kumar3golu/kumar3golu/output/github-snake.svg" alt="Contribution animation (available after successful workflow generation)" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kumar3golu/kumar3golu/output/github-snake.svg" alt="Contribution animation, available after successful generation" /></p>
 
-## Collaboration
+## Collaboration and opportunities
 
-Open to opportunities and collaboration in IT infrastructure, identity security, cloud and IT operations.
+Interested in opportunities and collaboration in IAM, enterprise IT infrastructure, IT operations and operational management.
